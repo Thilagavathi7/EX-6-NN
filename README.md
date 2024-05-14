@@ -1,9 +1,10 @@
 ENTER YOUR NAME: THILAGVATHI.S
+
 ENTER YOUR REGISTER NO.</H3>212222220053
 
 DATE:
-EX. NO.6
-Heart attack prediction using MLP
+## EX. NO.6 Heart attack prediction using MLP
+
 ## Aim:  
  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 ## Algorithm:
